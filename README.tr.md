@@ -13,6 +13,7 @@ Bu depoda ve sürümlerde Planetbase oyun dosyası ya da çözümlenmiş oyun ko
 
 ## Durum
 
+- Yaklaşık 3 aydır geliştiriliyor.
 - Hedef: Steam'de Planetbase 1.4.2. Sürüm paketi GOG sürümünü desteklemez.
 - Yalnızca iki oyuncu. İkisi de aynı sürümü kullanmalı.
 - Neyin test edilip edilmediği sürüm notlarında yazar.

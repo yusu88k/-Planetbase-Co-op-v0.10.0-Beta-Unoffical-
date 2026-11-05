@@ -13,6 +13,7 @@ No Planetbase game files or decompiled game code are included in this repository
 
 ## Status
 
+- Developed over about 3 months.
 - Target: Planetbase 1.4.2 on Steam. The GOG build is not supported by the release package.
 - Two players only. Both must use the same release.
 - See the release notes for what has and has not been tested.
