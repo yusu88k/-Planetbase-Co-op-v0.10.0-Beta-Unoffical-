@@ -1,0 +1,9 @@
+bin/
+obj/
+*.user
+.vs/
+*.log
+# Game and redistributable binaries must never be committed.
+*.dll
+*.exe
+*.sav
