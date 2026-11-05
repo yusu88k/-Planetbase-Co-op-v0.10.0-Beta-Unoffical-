@@ -1,6 +1,8 @@
 PLANETBASE CO-OP (UNOFFICIAL) - STEAM VERSION
 =============================================
 
+COPYRIGHT CONCERNS: please contact ayabakanziya@gmail.com first.
+
 Play Planetbase with a friend: two players manage the same colony.
 Free, unofficial fan mod. Not affiliated with or endorsed by Madruga Works.
 Plugin v@@VERSION@@ / network protocol v@@PROTOCOL@@.

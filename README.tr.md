@@ -2,6 +2,8 @@
 
 [English](README.md) | **Türkçe**
 
+> **Telif sorunları için:** lütfen önce **ayabakanziya@gmail.com** adresine ulaşın.
+
 [Planetbase](https://store.steampowered.com/app/403190/Planetbase/) için ücretsiz, resmî olmayan iki kişilik
 co-op modu. BepInEx eklentisidir. İki oyuncu aynı koloniyi birlikte yönetir. Steam arkadaşları port açmadan
 birbirini davet edebilir; yedek olarak LAN/IP modu da vardır.

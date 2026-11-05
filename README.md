@@ -2,6 +2,8 @@
 
 **English** | [Türkçe](README.tr.md)
 
+> **Copyright concerns:** please contact **ayabakanziya@gmail.com** first.
+
 A free, unofficial two-player co-op mod for [Planetbase](https://store.steampowered.com/app/403190/Planetbase/),
 built as a BepInEx plugin. Two players manage the same colony. Steam friends can invite each other
 with no port forwarding, and a LAN/IP mode is available as a fallback.

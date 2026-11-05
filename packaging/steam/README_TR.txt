@@ -1,6 +1,8 @@
 PLANETBASE CO-OP (RESMÎ OLMAYAN) - STEAM SÜRÜMÜ
 ===============================================
 
+TELİF SORUNLARI İÇİN: lütfen önce ayabakanziya@gmail.com adresine ulaşın.
+
 Planetbase'i arkadaşınla oyna: iki oyuncu aynı koloniyi birlikte yönetir.
 Ücretsiz, resmî olmayan bir hayran modudur. Madruga Works ile bağlantısı yoktur.
 Plugin v@@VERSION@@ / ağ protokolü v@@PROTOCOL@@.
